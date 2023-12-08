@@ -1,4 +1,4 @@
-# Python-FOR-Estudo
+# Estudo For
 ## Estudando estrutura de repetição
 
 **Desenvolvi** um programa de contagem _regressiva_ usando o loop __FOR__, como se fosse uma contagem para *explosão de fogos de artifício*.
